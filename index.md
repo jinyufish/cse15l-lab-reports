@@ -12,5 +12,7 @@ Download Git and open a terminal using "Ctrl" + "`" (for Windows), type your acc
 <p> This is the output you will get when finishing the process above. The terminal is now connected to UCSD CSE basement. </p>
 
 ## Trying Some Commands
-<img width="983" alt="part5" src="https://user-images.githubusercontent.com/120219048/211935015-5aff6bec-73ab-4b17-815e-8447685e51c9.png">
-<p> I tried all the useful commands and tried to access other group member's directory. However, I was not able to do so because the permission was denied. </p>
+<img width="611" alt="last step1" src="https://user-images.githubusercontent.com/120219048/212201753-33e288cd-de57-4d80-94fb-a707388f9630.png">
+<img width="485" alt="last step2" src="https://user-images.githubusercontent.com/120219048/212201759-8dfa9544-5133-4eeb-bde9-3aa17aca4113.png">
+<img width="209" alt="last step3" src="https://user-images.githubusercontent.com/120219048/212201768-b9c7ca88-98e4-451c-8668-5e5a9216b84d.png">
+<p> I tried all of the commands listed in lab 1 and tried to access other's directory. I also used cat to show the content of hello.txt. When logged out, I simply typed "exit." </p>
