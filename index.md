@@ -15,4 +15,4 @@ Download Git and open a terminal using "Ctrl" + "`" (for Windows), type your acc
 <img width="611" alt="last step1" src="https://user-images.githubusercontent.com/120219048/212201753-33e288cd-de57-4d80-94fb-a707388f9630.png">
 <img width="485" alt="last step2" src="https://user-images.githubusercontent.com/120219048/212201759-8dfa9544-5133-4eeb-bde9-3aa17aca4113.png">
 <img width="209" alt="last step3" src="https://user-images.githubusercontent.com/120219048/212201768-b9c7ca88-98e4-451c-8668-5e5a9216b84d.png">
-<p> I tried all of the commands listed in lab 1 and tried to access other's directory. I also used cat to show the content of hello.txt. When logged out, I simply typed "exit." </p>
+<p> I tried all of the commands listed in lab 1 and tried to access other's directory. I also copied hello.txt and used cat to show the content of hello.txt. When logged out, I simply typed "exit." </p>
